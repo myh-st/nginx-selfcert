@@ -5,7 +5,7 @@ Script nginx-selfcert
 Run the script:
 
     git clone https://github.com/myh-st/nginx-selfcert.git
-    cd nginx-selfcert.git
+    cd nginx-selfcert
     sh setup-selfcert.sh
 
 # Example configuration file for generating self-signed certificates and certificate requests
